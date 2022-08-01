@@ -1,0 +1,4 @@
+node_modules/
+.encryptedKey*
+.env
+SimpleStorage_sol*
